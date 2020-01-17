@@ -1,4 +1,4 @@
-from PIL import Image, ImageDraw, ImageFont
+from pillow import Image, ImageDraw, ImageFont
 import textwrap
 
 TITLE_FONT_SIZE = 35

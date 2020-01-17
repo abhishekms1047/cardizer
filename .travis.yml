@@ -1,0 +1,6 @@
+branches:
+  only:
+  - master
+language: python
+os:
+  - linux

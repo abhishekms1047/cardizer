@@ -3,6 +3,7 @@ from card import Card
 import csv
 import re
 import sys
+#import pytest
 
 try:
     import xml.etree.cElementTree as ET
